@@ -43,7 +43,7 @@ public class BasicSecurityConfig  extends WebSecurityConfigurerAdapter { //WebSe
 	    .and().csrf().disable(); //proteção contra hackers.
 	}
 	
-	
+	//teste
 	
 	
 }

@@ -6,7 +6,6 @@ import org.generation.blogPessoal.model.Usuario;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
-import javassist.SerialVersionUID;
 
 public class UserDetailsImpl implements UserDetails {
 	
@@ -64,5 +63,5 @@ public class UserDetailsImpl implements UserDetails {
 		// TODO Auto-generated method stub
 		return true;
 	}
-
+//teste
 }
